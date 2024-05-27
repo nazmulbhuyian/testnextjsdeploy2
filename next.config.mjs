@@ -1,5 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {basePath: '/project2',
-trailingSlash: true,};
+const nextConfig = {};
 
 export default nextConfig;
